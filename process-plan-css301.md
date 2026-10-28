@@ -1,7 +1,24 @@
 
 # PREPARING FOR A POWER DISTRIBUTION ENGINEER CAREER
-
 **By Evan Liang**
+
+# Table Of Contents
+
+## GAINING PRACTICAL EXPERIENCE
+  ### Finding Internships
+  ### Learning from Experienced Engineers
+
+## BUILDING TECHNICAL SKILLS
+  ### Engineering Software
+  ### Electrical Codes and Safety Standards
+  ### Hands-On Engineering Projects
+
+
+
+# DEVELOPING JOB APPLICATIONS & NETWORKING
+  ### Building a Technical Resume
+  ### Networking with Professionals
+
 
 Preparing for a career in power distribution engineering requires more than completing electrical engineering coursework. This report outlines the best practices for developing the practical experience and technical skills needed to pursue an entry-level position in power distribution engineering. Understanding these practices will help you prepare for the responsibilities required to succeed in the field.
 
