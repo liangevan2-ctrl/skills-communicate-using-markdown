@@ -67,14 +67,14 @@ Attend university career fairs and connect with engineers and recruiters through
 
 ---
 
-
 ## POWER DISTRIBUTION CAREER PREPARATION TIMELINE
 
 **Figure 1: Power Distribution Career Preparation Timeline**
 
-![Power Distribution Career Preparation Timeline](Process%20Draft%20Timeline.png)
+![Power Distribution Career Preparation Timeline](career-timeline.png)
 
 ---
+
 
 ## REFERENCES
 
