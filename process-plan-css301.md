@@ -55,9 +55,9 @@ Applying for the position involves preparing a professional technical resume and
 
 ### Building a Technical Resume
 
-A technical resume provides employers with an overview to evaluate your qualifications and determine whether your skills match their engineering positions. Highlighting relevant technical skills and experience can improve your chances of receiving an interview.
+A technical resume provides employers with an outline of your qualifications, allowing them to evaluate and determine whether your skills match their engineering positions. Highlighting relevant technical skills, coursework, and experience can demonstrate how your credentials align with the job’s requirements.
 
-Create a resume that emphasizes your electrical engineering projects, technical skills, and internship experience. Tailor your resume to the positions you apply for and practice answering technical and behavioral interview questions.
+Prepare a resume that emphasizes your electrical engineering knowledge, technical skills, and internship experience. Research the roles you are applying for and practice responding to potential interview questions.
 
 ### Networking with Professionals
 
@@ -67,16 +67,12 @@ Attend university career fairs and connect with engineers and recruiters through
 
 ---
 
+
 ## POWER DISTRIBUTION CAREER PREPARATION TIMELINE
 
-**Table 1: Power Distribution Career Preparation Timeline**
+**Figure 1: Power Distribution Career Preparation Timeline**
 
-| Year | Focus | Recommended Actions |
-|---|---|---|
-| Year 1 | Academic Foundation | Begin prerequisite courses in mathematics, physics, and introductory engineering. |
-| Year 2 | Major Preparation | Complete prerequisites and apply to the Electrical Engineering major. |
-| Year 3 | Engineering Experience | Begin B EE coursework, attend career fairs, and apply for internships. |
-| Year 4 | Employment Preparation | Complete capstone projects, prepare your resume, and apply for entry-level engineering jobs. Continue searching for internships if needed. |
+![Power Distribution Career Preparation Timeline](Process%20Draft%20Timeline.png)
 
 ---
 
