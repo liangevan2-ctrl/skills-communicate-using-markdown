@@ -15,7 +15,7 @@
 
 
 
-# DEVELOPING JOB APPLICATIONS & NETWORKING
+## DEVELOPING JOB APPLICATIONS & NETWORKING
   ### Building a Technical Resume
   ### Networking with Professionals
 
