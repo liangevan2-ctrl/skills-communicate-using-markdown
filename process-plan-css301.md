@@ -51,7 +51,7 @@ This section explains how to develop the technical knowledge and skills needed t
 
 AutoCAD is a commonly used software in engineering to create and share technical drawings. Becoming familiar with AutoCAD will help you interpret engineering designs and communicate more effectively with other engineers. These skills also prepare you to work with engineering drawings before entering the role [^1].
 
-Practice and develop AutoCAD skills through university coursework, introductory training courses, or online tutorials. Apply these skills in engineering projects to gain technical experience using the software.
+Practice and develop AutoCAD skills through university coursework, introductory training courses, or online tutorials. Apply these skills in engineering projects by creating and interpreting technical drawings.
 
 ### Electrical Codes and Safety Standards
 
@@ -61,9 +61,9 @@ Learn about the NEC and NESC through electrical engineering coursework, training
 
 ### Hands-On Engineering Projects
 
-Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical problems. These will help you build technical skills by designing systems, testing their function, identifying potential problems, and finding solutions.
+Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. These will help you build technical skills by designing systems, testing their function, identifying potential problems, and finding solutions.
 
-Participate in university engineering projects or engineering clubs. Engage in activities that are focused on designing, testing, and troubleshooting electrical systems to strengthen your technical knowledge before graduation.
+Participate in university engineering projects or engineering clubs that focus on designing, testing, and troubleshooting electrical and power systems. Engage in activities that allow you to apply classroom knowledge to practical problems and collaborate with other students.
 
 ---
 
