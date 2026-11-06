@@ -104,3 +104,5 @@ Attend university career fairs and connect with engineers and recruiters through
 [2] IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d. [Online]. Available: https://standards.ieee.org/products-programs/nesc/. [Accessed Oct. 26, 2026].
 
 [3] The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025. [Online]. Available: https://www.autodesk.com/blogs/autocad/what-is-cad/. [Accessed Oct. 26, 2026].
+
+[Word count: ]
