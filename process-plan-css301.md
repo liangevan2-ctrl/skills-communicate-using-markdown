@@ -50,7 +50,7 @@ This section explains how to develop the technical knowledge and skills needed t
 
 ### Engineering Software
 
-AutoCAD is a commonly used software in engineering to create and share technical drawings. Becoming familiar with AutoCAD will help you interpret engineering designs and communicate more effectively with other engineers. These skills also prepare you to work with engineering drawings before entering the role [3].
+AutoCAD is a commonly used software in engineering to create and share technical drawings. Becoming familiar with AutoCAD will help you interpret engineering designs and communicate more effectively with other engineers. These skills also prepare you to work with engineering drawings before entering the role [^1].
 
 Look for opportunities to develop AutoCAD skills through university coursework or introductory training courses. Apply these skills in engineering projects to gain technical experience using the software.
 
@@ -106,3 +106,5 @@ Attend university career fairs and connect with engineers and recruiters through
 [3] IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d. [Online]. Available: https://standards.ieee.org/products-programs/nesc/. [Accessed Oct. 26, 2026].
 
 [Word count: ]
+
+[^1]: The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025.
