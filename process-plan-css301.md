@@ -87,11 +87,11 @@ Attend university career fairs and connect with engineers and recruiters through
 
 ## POWER DISTRIBUTION CAREER PREPARATION TIMELINE
 
-**Figure 1: Power Distribution Career Preparation Timeline**
-
 Figure 1 is a timeline that illustrates how career preparation for power distribution engineering can progress during your four years of undergraduate study, with each year offering different opportunities to develop knowledge, skills, and experience.
 
 ![Power Distribution Career Preparation Timeline](Process%20Draft%20Timeline.png)
+
+**Figure 1: Power Distribution Career Preparation Timeline**
 
 
 ---
