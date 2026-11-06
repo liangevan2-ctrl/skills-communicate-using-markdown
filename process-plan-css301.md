@@ -73,9 +73,9 @@ Applying for the position involves preparing a professional technical resume and
 
 ### Building a Technical Resume
 
-A technical resume provides employers with an outline of your qualifications, allowing them to evaluate and determine whether your skills match their engineering positions. These attributes can help employers better understand how your credentials align with the job’s requirements.
+A technical resume provides employers with an outline of your qualifications, allowing them to evaluate and determine whether your skills match their engineering positions. This information can help employers better understand how your credentials align with the job’s requirements.
 
-Prepare a resume that emphasizes your electrical engineering knowledge, technical skills, and internship experience. Research the roles you are applying for and practice responding to potential interview questions.
+Prepare a resume that emphasizes your electrical engineering knowledge, relevant coursework, technical skills, and internship experience. Research the positions you are applying for and tailor your resume to highlight the qualifications that each power distribution engineering role requires.
 
 ### Networking with Professionals
 
