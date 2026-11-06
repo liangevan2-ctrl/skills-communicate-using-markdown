@@ -56,7 +56,7 @@ Look for opportunities to develop AutoCAD skills through university coursework o
 
 ### Electrical Codes and Safety Standards
 
-Understanding the National Electrical Code (NEC) and National Electrical Safety Code (NESC) helps you recognize the required safety standards when designing and installing electrical systems. These regulations provide guidelines that allow engineers to make informed decisions and ensure the safety and reliability of power systems [1], [2].
+Understanding the National Electrical Code (NEC) and National Electrical Safety Code (NESC) helps you recognize the required safety standards when designing and installing electrical systems. These regulations provide guidelines that allow engineers to make informed decisions and ensure the safety and reliability of power systems [^2][^3].
 
 Learn about the NEC and NESC through electrical engineering coursework, training programs or independent study using online resources.
 
@@ -108,3 +108,5 @@ Attend university career fairs and connect with engineers and recruiters through
 [Word count: ]
 
 [^1]: The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025.
+[^2]: National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d.
+[^3]: IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d.
