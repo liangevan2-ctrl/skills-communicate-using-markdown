@@ -99,8 +99,8 @@ Attend university career fairs and connect with engineers and recruiters through
 
 ## REFERENCES
 
-[1] National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d. [Online]. Available: https://www.nfpa.org/education-and-research/electrical/understanding-nfpa-70-national-electrical-code#faqs. [Accessed Oct. 26, 2026]
+[1] National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d. [Online]. Available: https://www.nfpa.org/education-and-research/electrical/understanding-nfpa-70-national-electrical-code#faqs. [Accessed Oct. 26, 2026].
 
-[2] IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d. [Online]. Available: https://standards.ieee.org/products-programs/nesc/. [Accessed Oct. 26, 2026]
+[2] IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d. [Online]. Available: https://standards.ieee.org/products-programs/nesc/. [Accessed Oct. 26, 2026].
 
-[3] The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025. [Online]. Available: https://www.autodesk.com/blogs/autocad/what-is-cad/. [Accessed Oct. 26, 2026]
+[3] The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025. [Online]. Available: https://www.autodesk.com/blogs/autocad/what-is-cad/. [Accessed Oct. 26, 2026].
