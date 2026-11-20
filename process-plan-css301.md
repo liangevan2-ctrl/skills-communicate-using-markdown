@@ -1,6 +1,8 @@
 # Preparing for a Power Distribution Engineer Career
 **By Evan Liang**
 
+(c)
+
 ## Table of Contents
 
 - [GAINING PRACTICAL EXPERIENCE](#gaining-practical-experience)
