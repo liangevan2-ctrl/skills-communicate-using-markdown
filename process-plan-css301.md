@@ -1,4 +1,4 @@
-# PREPARING FOR A POWER DISTRIBUTION ENGINEER CAREER
+# Preparing for a Power Distribution Engineer Career
 **By Evan Liang**
 
 ## Table of Contents
