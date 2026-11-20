@@ -21,7 +21,7 @@
 - [REFERENCES](#references)
 
 
-Preparing for a career in power distribution engineering requires more than completing electrical engineering coursework. This report outlines the best practices for developing the practical experience and technical skills needed to pursue an entry-level position in power distribution engineering. Understanding these practices will help you prepare for the responsibilities required to succeed in the field.
+Preparing for a career in power distribution engineering requires more than completing electrical engineering coursework. This report outlines the best practices for developing the practical experience and technical skills needed to pursue an entry-level position in power distribution engineering. Understanding these practices helps you prepare for the responsibilities required to succeed in the field.
 
 ---
 
@@ -31,7 +31,7 @@ Gaining industry experience involves finding engineering internships and learnin
 
 ### Finding Internships
 
-Engineering internships provide practical experience in the field that will demonstrate the responsibilities of electrical engineers. These opportunities allow you to apply coursework knowledge to engineering work outside the classroom.
+Engineering internships provide practical experience in the field that demonstrates the responsibilities of electrical engineers. These opportunities allow you to apply coursework knowledge to engineering work outside the classroom.
 
 Begin searching for engineering internships during your third year or fourth year of college, when you have developed a foundation in electrical engineering. Attend university career fairs or use LinkedIn to connect with engineering professionals and learn about potential internship opportunities.
 
@@ -49,7 +49,7 @@ This section explains how to develop the technical knowledge and skills needed t
 
 ### Developing Engineering Software Knowledge
 
-AutoCAD is a commonly used software in engineering to create and share technical drawings. Becoming familiar with AutoCAD will help you interpret engineering designs and communicate more effectively with other engineers. These skills also prepare you to work with engineering drawings before entering the role [^1].
+AutoCAD is a commonly used software in engineering to create and share technical drawings. Becoming familiar with AutoCAD helps you interpret engineering designs and communicate more effectively with other engineers. These skills also prepare you to work with engineering drawings before entering the role [^1].
 
 Practice and develop AutoCAD skills through university coursework, introductory training courses, or online tutorials. Apply these skills in engineering projects by creating and interpreting technical drawings.
 
