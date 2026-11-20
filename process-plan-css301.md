@@ -47,19 +47,19 @@ Observe how experienced engineers solve practical problems, ask questions to lea
 
 This section explains how to develop the technical knowledge and skills needed through understanding engineering software, electrical codes, safety standards, and how to apply coursework knowledge to hands-on projects.
 
-### Engineering Software
+### Developing Engineering Software Knowledge
 
 AutoCAD is a commonly used software in engineering to create and share technical drawings. Becoming familiar with AutoCAD will help you interpret engineering designs and communicate more effectively with other engineers. These skills also prepare you to work with engineering drawings before entering the role [^1].
 
 Practice and develop AutoCAD skills through university coursework, introductory training courses, or online tutorials. Apply these skills in engineering projects by creating and interpreting technical drawings.
 
-### Electrical Codes and Safety Standards
+### Practicing Electrical Codes and Safety Standards
 
 Understanding the National Electrical Code (NEC) and National Electrical Safety Code (NESC) helps you recognize the required safety standards when designing and installing electrical systems. These regulations provide guidelines that allow engineers to make informed decisions and ensure the safety and reliability of power systems [^2][^3].
 
 Learn about the NEC and NESC through electrical engineering coursework, training programs or independent study using online resources.
 
-### Hands-On Engineering Projects
+### Participating in Hands-On Engineering Projects
 
 Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. These will help you build technical skills by designing systems, testing their function, identifying potential problems, and finding solutions.
 
