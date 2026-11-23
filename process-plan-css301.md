@@ -1,4 +1,4 @@
-# Preparing for a Power Distribution Engineer Career
+# Preparing for a Power Distribution Engineering Career
 **By Evan Liang**
 
 IMAGE HERE
@@ -64,7 +64,7 @@ Learn about the NEC and NESC through electrical engineering coursework, training
 
 ### Participating in Hands-On Engineering Projects
 
-Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. These will help you build technical skills by designing systems, testing their function, identifying potential problems, and finding solutions.
+Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. These help you build technical skills by designing systems, testing their function, identifying potential problems, and finding solutions.
 
 Participate in university engineering projects or engineering clubs that focus on designing, testing, and troubleshooting electrical and power systems. Engage in activities that allow you to apply classroom knowledge to practical problems and collaborate with other students.
 
