@@ -24,7 +24,7 @@ copyright here
 - [REFERENCES](#references)
 
 
-Preparing for a career in power distribution engineering requires more than completing electrical engineering coursework. Although academic coursework provides the foundational knowledge needed for understanding electrical systems, you may not have had opportunities to apply that knowledge to real-world projects in the field or establish professional connections. As a result, you may lack the practical experience, technical skills, and professional connections employers expect. This report outlines the best practices for developing the practical experience and industry skills needed to pursue an entry-level position in power distribution engineering. Building these qualifications helps you transition from academic learning to professional career responsibilities.
+Preparing for a career in power distribution engineering requires more than completing electrical engineering coursework. Although academic coursework provides the foundational knowledge needed for understanding electrical systems, you may not have had opportunities to apply that knowledge to real-world projects in the field or establish professional connections. As a result, you may lack the practical experience, technical skills, and professional connections employers expect. This report outlines the best practices for developing the practical experience and industry skills needed to pursue an entry-level position in power distribution engineering. Building these qualifications helps you transition from academic learning to professional responsibilities.
 
 ---
 
