@@ -28,7 +28,7 @@ Preparing for a career in power distribution engineering requires more than comp
 
 ---
 
-## GAINING PRACTICAL EXPERIENCE
+## Gaining Pratical Experience
 
 Gaining industry experience involves finding engineering internships and learning from experienced professionals in the industry.
 
@@ -46,7 +46,7 @@ Observe how experienced engineers solve practical problems, ask questions to lea
 
 ---
 
-## BUILDING TECHNICAL SKILLS
+## Building Techical Skills
 
 This section explains how to develop the technical knowledge and skills needed through understanding engineering software, electrical codes, safety standards, and how to apply coursework knowledge to hands-on projects.
 
@@ -70,7 +70,7 @@ Participate in university engineering projects or engineering clubs that focus o
 
 ---
 
-## DEVELOPING JOB APPLICATIONS & NETWORKING
+## Developing Job Applications & Networking
 
 Applying for the position involves preparing a professional technical resume and establishing connections with professionals in the power distribution industry.
 
@@ -88,7 +88,7 @@ Attend university career fairs and connect with engineers and recruiters through
 
 ---
 
-## POWER DISTRIBUTION CAREER PREPARATION TIMELINE
+## Power Distribution Career Preparation Timeline
 
 Figure 1 is a timeline that illustrates how career preparation for power distribution engineering can progress during your four years of undergraduate study, with each year offering different opportunities to develop knowledge, skills, and experience.
 
@@ -100,7 +100,7 @@ Figure 1 is a timeline that illustrates how career preparation for power distrib
 ---
 
 
-## REFERENCES
+## References
 
 [1] The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025. [Online]. Available: https://www.autodesk.com/blogs/autocad/what-is-cad/. [Accessed Oct. 26, 2026].
 
