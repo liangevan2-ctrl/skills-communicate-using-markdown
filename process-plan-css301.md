@@ -3,7 +3,7 @@
 
 IMAGE HERE
 
-<sub>© Image from
+<sub>© Image from Delta Wye Electric
 
 ## Table of Contents
 
