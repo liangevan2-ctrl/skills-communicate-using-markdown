@@ -7,17 +7,17 @@ copyright here
 ## Table of Contents
 
 - [Gaining Practical Experience](#gaining-practical-experience)
-  - [Finding Internships](#finding-internships)
+  - [Finding Engineering Internships](#finding-engineering-internships)
   - [Learning from Experienced Engineers](#learning-from-experienced-engineers)
 
 - [Building Technical Skills](#building-technical-skills)
-  - [Engineering Software](#engineering-software)
-  - [Electrical Codes and Safety Standards](#electrical-codes-and-safety-standards)
-  - [Hands-On Engineering Projects](#hands-on-engineering-projects)
+  - [Developing Engineering Software Knowledge](#developing-engineering-software-knowledge)
+  - [Practicing Electrical Codes and Safety Standards](#practicing-electrical-codes-and-safety-standards)
+  - [Participating in Hands-On Engineering Projects](#participating-in-hands-on-engineering-projects)
 
-- [Developing Job Applications & Networking](#developing-job-applications--networking)
+- [Developing Job Applications & Networking](#developing-job-applications-networking)
   - [Building a Technical Resume](#building-a-technical-resume)
-  - [Networking with Professionals](#networking-with-professionals)
+  - [Establishing Professional Connections](#establishing-professional-connections)
 
 - [POWER DISTRIBUTION CAREER PREPARATION TIMELINE](#power-distribution-career-preparation-timeline)
 
@@ -32,7 +32,7 @@ Preparing for a career in power distribution engineering requires more than comp
 
 Gaining industry experience involves finding engineering internships and learning from experienced professionals in the industry.
 
-### Finding Internships
+### Finding Engineering Internships
 
 Having internship experience demonstrates your ability to apply academic knowledge to practical engineering projects, allowing employers to recognize your technical understanding beyond the classroom. This experience can help you stand out among candidates as it shows your ability to approach engineering tasks in a professional environment.
 
@@ -42,7 +42,7 @@ Begin searching for engineering internships during your third year of college, w
 
 Working alongside experienced engineers helps you strengthen your understanding of workplace expectations and the responsibilities of professional engineers. This experience can help you prepare to meet industry standards and become familiar with the practices employers expect from entry-level engineers.
 
-Learn from experienced engineers by observing how they approach practical engineering problems. Assist with assigned engineering tasks to gain a better understanding of professional duties and develop insight into industry practices.
+Learn from experienced engineers by observing how they approach practical engineering problems. Assist with assigned engineering tasks to gain insight into professional duties and industry expectations.
 
 ---
 
@@ -54,19 +54,19 @@ This section explains how to develop the technical knowledge and skills needed t
 
 Becoming familiar with AutoCAD helps you build the technical skills required to interpret engineering designs and communicate more effectively with other engineers. Employers value candidates who are able to demonstrate knowledge of commonly used engineering software needed in everyday engineering tasks [^1].
 
-Practice and develop AutoCAD skills through university coursework, introductory training courses, or online tutorials. Apply these skills in engineering projects by creating and interpreting technical drawings.
+Develop proficient AutoCAD skills through introductory training courses and apply these skills in engineering projects by creating and interpreting technical drawings.
 
 ### Practicing Electrical Codes and Safety Standards
 
 Understanding the National Electrical Code (NEC) and National Electrical Safety Code (NESC) helps you recognize the safety requirements involved in designing and installing electrical systems. Knowledge of these regulations makes you a stronger candidate because they are essential to ensuring the safety and reliability of power systems [^2][^3].
 
-Learn about the NEC and NESC through electrical engineering coursework, training programs or independent study using online resources.
+Learn about the NEC and NESC through independent study using online resources and, focusing on their safety requirements and how they apply to power systems.
 
 ### Participating in Hands-On Engineering Projects
 
 Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. This experience helps you build technical skills that are valuable to employers in professional engineering environments.
 
-Participate in university engineering projects or engineering clubs that focus on designing, testing, and troubleshooting electrical and power systems. Engage in activities that allow you to apply classroom knowledge to practical problems and collaborate with other students.
+Participate in university engineering projects that focus on designing, testing, and troubleshooting electrical and power systems. Engage in project activities to apply classroom knowledge to practical problems and collaborate with other students.
 
 ---
 
@@ -78,13 +78,13 @@ Applying for the position involves preparing a professional technical resume and
 
 A technical resume provides employers with an outline of your qualifications, allowing them to evaluate whether your skills match the job requirements. Emphasizing relevant coursework and experience helps employers better understand how your credentials prepare you for entry-level roles.
 
-Prepare a resume that emphasizes your electrical engineering knowledge, relevant coursework, technical skills, and internship experience. Research the positions you are applying for and tailor your resume to highlight the qualifications that each power distribution engineering role requires.
+Develop a technical resume that emphasizes your electrical engineering knowledge, relevant coursework, technical skills, and internship experience. Tailor your resume to highlight qualifications that align with the requirements of power distribution engineering positions.
 
-### Networking with Professionals
+### Establishing Professional Connections
 
 Building professional connections helps you learn about career opportunities while allowing employers and engineering professionals to become familiar with your skills, interests, and career goals.
 
-Attend university career fairs and connect with engineers and recruiters through LinkedIn. Ask about their work experience, engineering responsibilities, and qualifications employers look for in new graduates.
+Build professional connections with experienced engineers through LinkedIn. Engage with industry professionals to learn about their work experiences, job duties, and qualifications employers look for in new graduates.
 
 ---
 
@@ -115,3 +115,4 @@ Figure 1 is a timeline that illustrates how career preparation for power distrib
 [^1]: The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025.
 [^2]: National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d.
 [^3]: IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d.
+[^4]: Li, Helen. Personal interview. 10 November 2026.
