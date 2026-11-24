@@ -38,7 +38,7 @@ Begin searching for internships during your third year of college, when you have
 
 ### Learning from Experienced Engineers
 
-Working alongside experienced engineers helps you strengthen your understanding of workplace expectations and the responsibilities of professional engineers. This experience can help you prepare to meet industry standards and become familiar with the practices employers expect from entry-level engineers. For instance, Helen Li, a software engineer, explained how working alongside industry professionals helps prepare for encountering challenges in a real-world work environment [^1].
+Working alongside experienced engineers helps you strengthen your understanding of workplace expectations and the responsibilities of professional engineers. This experience can help you prepare to meet industry standards and become familiar with the practices employers expect from entry-level engineers. For instance, Helen Li, a software engineer, explained how working alongside industry professionals prepares you to handle challenges in a real-world work environment [^1].
 
 Learn from experienced engineers by observing how they approach practical engineering problems. Assist with assigned tasks to gain insight into professional duties and industry expectations.
 
