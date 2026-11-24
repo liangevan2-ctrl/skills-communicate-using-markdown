@@ -3,7 +3,7 @@
 
 IMAGE HERE
 
-<sub>© Image from Delta Wye Electric Power Distribution
+<sub>© Image from Delta Wye Electric Industrial Power Distribution
 
 ## Table of Contents
 
