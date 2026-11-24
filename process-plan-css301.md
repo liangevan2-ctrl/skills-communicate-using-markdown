@@ -31,7 +31,7 @@ Gaining industry experience involves finding engineering internships and learnin
 
 ### Finding Internships
 
-Having internship experience demonstrates your ability to apply academic knowledge to practical projects, allowing employers to recognize your technical understanding beyond the classroom. This experience can help you stand out among candidates as it shows your ability to approach engineering tasks in a professional environment.
+Having internship experience demonstrates your ability to apply academic knowledge to practical projects, allowing employers to recognize your technical understanding beyond the classroom. This experience can help you stand out among candidates because it reflects your ability to approach practical tasks in a professional environment.
 
 Begin searching for internships during your third year of college, when you have developed a foundation in electrical engineering. Use LinkedIn to connect with professionals in the power distribution industry and learn about potential internship opportunities.
 
