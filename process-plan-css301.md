@@ -57,7 +57,7 @@ Develop proficient AutoCAD skills through introductory training courses and appl
 
 Understanding the National Electrical Code (NEC) and National Electrical Safety Code (NESC) helps you recognize the safety requirements involved in designing and installing electrical systems. Knowledge of these regulations makes you a stronger candidate because they are essential to ensuring the safety and reliability of power systems [^2][^3].
 
-Learn about the NEC and NESC through independent study using online resources and, focusing on their safety requirements and how they apply to power systems.
+Review the NEC and NESC through independent study using online resources and focus on their safety requirements and how they apply to power systems.
 
 ### Participating in Hands-On Engineering Projects
 
