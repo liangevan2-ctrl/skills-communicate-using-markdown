@@ -110,7 +110,7 @@ Figure 1 is a timeline that illustrates how career preparation for power distrib
 
 [4] Li, Helen. Personal interview. 10 November 2026.
 
-[Word count: ]
+[Word count: 631]
 
 [^1]: The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025.
 [^2]: National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d.
