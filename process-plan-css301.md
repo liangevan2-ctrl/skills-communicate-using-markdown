@@ -3,7 +3,7 @@
 
 IMAGE HERE
 
-###### copyright here
+<sub>copyright here
 
 ## Table of Contents
 
