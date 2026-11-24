@@ -69,6 +69,7 @@ Participate in university engineering projects that focus on designing, testing,
 **Figure 1: Examples of Hands-On Engineering Projects**
 
 FIGURE HERE
+
 <sub>Figure created using Canva
 
 Figure 1 illustrates four examples of hands-on projects: circuit labs, designing projects, troubleshooting, and team projects.
