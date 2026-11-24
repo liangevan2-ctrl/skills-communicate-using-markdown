@@ -50,13 +50,13 @@ This section explains how to develop the technical knowledge and skills needed t
 
 ### Developing Software Knowledge
 
-Becoming familiar with AutoCAD helps you build the technical skills required to interpret electrical designs and communicate more effectively with other engineers. Employers value candidates who are able to demonstrate knowledge of commonly used software for everyday power distribution tasks [^1].
+Becoming familiar with AutoCAD helps you build the technical skills required to interpret electrical designs and communicate more effectively with other engineers. Employers value candidates who are able to demonstrate knowledge of commonly used software for everyday power distribution tasks [^2].
 
 Develop proficient AutoCAD skills through introductory training courses and apply these skills in engineering projects by creating and interpreting technical drawings.
 
 ### Practicing Electrical Codes and Safety Standards
 
-Understanding the National Electrical Code (NEC) and National Electrical Safety Code (NESC) helps you recognize the safety requirements involved in designing and installing electrical systems. Knowledge of these regulations makes you a stronger candidate because they are essential to ensuring the safety and reliability of power systems [^2][^3].
+Understanding the National Electrical Code (NEC) and National Electrical Safety Code (NESC) helps you recognize the safety requirements involved in designing and installing electrical systems. Knowledge of these regulations makes you a stronger candidate because they are essential to ensuring the safety and reliability of power systems [^3][^4].
 
 Review the NEC and NESC through independent study using online resources and focus on their safety requirements and how they apply to power systems.
 
