@@ -7,7 +7,7 @@ copyright here
 ## Table of Contents
 
 - [Gaining Practical Experience](#gaining-practical-experience)
-  - [Finding Engineering Internships](#finding-engineering-internships)
+  - [Finding Internships](#finding-internships)
   - [Learning from Experienced Engineers](#learning-from-experienced-engineers)
 
 - [Building Technical Skills](#building-technical-skills)
@@ -29,7 +29,7 @@ Preparing for a career in power distribution engineering requires more than comp
 
 Gaining industry experience involves finding engineering internships and learning from experienced professionals in the industry.
 
-### Finding Engineering Internships
+### Finding Internships
 
 Having internship experience demonstrates your ability to apply academic knowledge to practical engineering projects, allowing employers to recognize your technical understanding beyond the classroom. This experience can help you stand out among candidates as it shows your ability to approach engineering tasks in a professional environment.
 
