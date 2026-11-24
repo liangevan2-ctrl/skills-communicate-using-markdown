@@ -73,7 +73,7 @@ Applying for the position involves preparing a professional technical resume and
 
 ### Building a Technical Resume
 
-A technical resume provides employers with an outline of your qualifications, allowing them to evaluate whether your skills match the job requirements. Emphasizing relevant coursework and experience helps employers better understand how your credentials prepare you for entry-level roles.
+Employers use technical resumes to evaluate whether applicants have the skills and experience that match the job requirements. Emphasizing relevant coursework and experience helps employers better understand how your credentials prepare you for entry-level roles.
 
 Develop a technical resume that emphasizes your electrical engineering knowledge, relevant coursework, technical skills, and internship experience. Tailor your resume to highlight qualifications that align with the requirements of power distribution engineering positions.
 
