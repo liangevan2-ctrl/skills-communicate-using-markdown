@@ -34,15 +34,15 @@ Gaining industry experience involves finding engineering internships and learnin
 
 ### Finding Internships
 
-Engineering internships provide practical experience in the field that demonstrates the responsibilities of electrical engineers. These opportunities allow you to apply coursework knowledge to engineering work outside the classroom.
+Having internship experience demonstrates your ability to apply academic knowledge to practical engineering projects, allowing employers to recognize your technical understanding beyond the classroom. This experience can help you stand out among candidates as it shows your ability to approach engineering tasks in a professional environment.
 
-Begin searching for engineering internships during your third year or fourth year of college, when you have developed a foundation in electrical engineering. Attend university career fairs or use LinkedIn to connect with engineering professionals and learn about potential internship opportunities.
+Begin searching for engineering internships during your third year of college, when you have developed a foundation in electrical engineering. Use LinkedIn to connect with professionals in the power distribution industry and learn about potential internship opportunities.
 
 ### Learning from Experienced Engineers
 
-Working alongside experienced engineers gives you hands-on experience with engineering projects and problems that may not be covered in textbooks or classroom lessons.
+Working alongside experienced engineers helps you strengthen your understanding of workplace expectations and the responsibilities of professional engineers. This experience can help you prepare to meet industry standards and become familiar with the practices employers expect from entry-level engineers.
 
-Observe how experienced engineers solve practical problems, ask questions to learn more about the job duties, and assist with assigned engineering tasks.
+Learn from experienced engineers by observing how they approach practical engineering problems. Assist with assigned engineering tasks to gain a better understanding of professional duties and develop insight into industry practices.
 
 ---
 
@@ -52,19 +52,19 @@ This section explains how to develop the technical knowledge and skills needed t
 
 ### Developing Engineering Software Knowledge
 
-AutoCAD is a commonly used software in engineering to create and share technical drawings. Becoming familiar with AutoCAD helps you interpret engineering designs and communicate more effectively with other engineers. These skills also prepare you to work with engineering drawings before entering the role [^1].
+Becoming familiar with AutoCAD helps you build the technical skills required to interpret engineering designs and communicate more effectively with other engineers. Employers value candidates who are able to demonstrate knowledge of commonly used engineering software needed in everyday engineering tasks [^1].
 
 Practice and develop AutoCAD skills through university coursework, introductory training courses, or online tutorials. Apply these skills in engineering projects by creating and interpreting technical drawings.
 
 ### Practicing Electrical Codes and Safety Standards
 
-Understanding the National Electrical Code (NEC) and National Electrical Safety Code (NESC) helps you recognize the required safety standards when designing and installing electrical systems. These regulations provide guidelines that allow engineers to make informed decisions and ensure the safety and reliability of power systems [^2][^3].
+Understanding the National Electrical Code (NEC) and National Electrical Safety Code (NESC) helps you recognize the safety requirements involved in designing and installing electrical systems. Knowledge of these regulations makes you a stronger candidate because they are essential to ensuring the safety and reliability of power systems [^2][^3].
 
 Learn about the NEC and NESC through electrical engineering coursework, training programs or independent study using online resources.
 
 ### Participating in Hands-On Engineering Projects
 
-Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. These help you build technical skills by designing systems, testing their function, identifying potential problems, and finding solutions.
+Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. This experience helps you build technical skills that are valuable to employers in professional engineering environments.
 
 Participate in university engineering projects or engineering clubs that focus on designing, testing, and troubleshooting electrical and power systems. Engage in activities that allow you to apply classroom knowledge to practical problems and collaborate with other students.
 
@@ -76,13 +76,13 @@ Applying for the position involves preparing a professional technical resume and
 
 ### Building a Technical Resume
 
-A technical resume provides employers with an outline of your qualifications, allowing them to evaluate and determine whether your skills match their engineering positions. This information can help employers better understand how your credentials align with the job’s requirements.
+A technical resume provides employers with an outline of your qualifications, allowing them to evaluate whether your skills match the job requirements. Emphasizing relevant coursework and experience helps employers better understand how your credentials prepare you for entry-level roles.
 
 Prepare a resume that emphasizes your electrical engineering knowledge, relevant coursework, technical skills, and internship experience. Research the positions you are applying for and tailor your resume to highlight the qualifications that each power distribution engineering role requires.
 
 ### Networking with Professionals
 
-Building professional connections helps you learn about career opportunities and understand what employers expect from entry-level engineers.
+Building professional connections helps you learn about career opportunities while allowing employers and engineering professionals to become familiar with your skills, interests, and career goals.
 
 Attend university career fairs and connect with engineers and recruiters through LinkedIn. Ask about their work experience, engineering responsibilities, and qualifications employers look for in new graduates.
 
@@ -110,7 +110,7 @@ Figure 1 is a timeline that illustrates how career preparation for power distrib
 
 [4] Li, Helen. Personal interview. 10 November 2026.
 
-[Word count: 633]
+[Word count: ]
 
 [^1]: The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025.
 [^2]: National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d.
