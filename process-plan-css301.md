@@ -1,9 +1,9 @@
 # Preparing for a Power Distribution Engineering Career
 **By Evan Liang**
 
-IMAGE HERE
+![Electrical worker testing a power distribution panel](power-distribution.png)
 
-<sub>© Image from Delta Wye Electric Industrial Power Distribution
+<sub>Figure 1. Electrical power distribution system. Image source: [Delta Wye Electric](https://deltawye.com/services/power-distribution/).</sub>
 
 ## Table of Contents
 
