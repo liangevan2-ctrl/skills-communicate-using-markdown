@@ -87,13 +87,11 @@ Build professional connections with experienced engineers through LinkedIn. Enga
 
 Figure 1 is a timeline that illustrates ...
 
-![Power Distribution Career Preparation Timeline](Process%20Draft%20Timeline.png)
-
 **Figure 1: Power Distribution Career Preparation Timeline**
 
+![Power Distribution Career Preparation Timeline](Process%20Draft%20Timeline.png)
 
 ---
-
 
 ## References
 
