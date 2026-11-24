@@ -68,7 +68,7 @@ Participate in university engineering projects that focus on designing, testing,
 
 **Figure 1: Examples of Hands-On Engineering Projects**
 
-FIGURE HERE
+![Hands-On Engineering](Hands-On%20Engineering.png)
 
 <sub>Figure created using Canva
 
