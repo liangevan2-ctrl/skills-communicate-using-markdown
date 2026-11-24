@@ -66,6 +66,10 @@ Hands-on projects allow you to apply coursework knowledge to real-world electric
 
 Participate in university engineering projects that focus on designing, testing, and troubleshooting electrical and power systems. Engage in project activities to apply classroom knowledge to practical problems and collaborate with other students.
 
+Figure 1 illustrates four examples of hands-on engineering projects ...
+
+**Figure 1: Examples of Hands-On Engineering Projects**
+
 ---
 
 ## Developing Job Applications and Networking
@@ -83,14 +87,6 @@ Develop a technical resume that emphasizes your electrical engineering knowledge
 Building professional connections helps you learn about career opportunities while allowing employers and engineering professionals to become familiar with your skills, interests, and career goals.
 
 Build professional connections with experienced engineers through LinkedIn. Engage with industry professionals to learn about their work experiences, job duties, and qualifications employers look for in new graduates.
-
----
-
-Figure 1 is a timeline that illustrates ...
-
-**Figure 1: Power Distribution Career Preparation Timeline**
-
-![Power Distribution Career Preparation Timeline](Process%20Draft%20Timeline.png)
 
 ---
 
