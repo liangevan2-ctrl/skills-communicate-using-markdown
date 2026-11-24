@@ -38,7 +38,7 @@ Begin searching for internships during your third year of college, when you have
 
 ### Learning from Experienced Engineers
 
-Working alongside experienced engineers helps you strengthen your understanding of workplace expectations and the responsibilities of professional engineers. This experience can help you prepare to meet industry standards and become familiar with the practices employers expect from entry-level engineers [^4].
+Working alongside experienced engineers helps you strengthen your understanding of workplace expectations and the responsibilities of professional engineers. This experience can help you prepare to meet industry standards and become familiar with the practices employers expect from entry-level engineers [^1].
 
 Learn from experienced engineers by observing how they approach practical engineering problems. Assist with assigned tasks to gain insight into professional duties and industry expectations.
 
@@ -96,17 +96,17 @@ Figure 1 is a timeline that illustrates ...
 
 ## References
 
-[1] The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025. [Online]. Available: https://www.autodesk.com/blogs/autocad/what-is-cad/. [Accessed Oct. 26, 2026].
+[1] Li, Helen. Personal interview. 10 November 2026.
 
-[2] National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d. [Online]. Available: https://www.nfpa.org/education-and-research/electrical/understanding-nfpa-70-national-electrical-code#faqs. [Accessed Oct. 26, 2026].
+[2] The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025. [Online]. Available: https://www.autodesk.com/blogs/autocad/what-is-cad/. [Accessed Oct. 26, 2026].
 
-[3] IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d. [Online]. Available: https://standards.ieee.org/products-programs/nesc/. [Accessed Oct. 26, 2026].
+[3] National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d. [Online]. Available: https://www.nfpa.org/education-and-research/electrical/understanding-nfpa-70-national-electrical-code#faqs. [Accessed Oct. 26, 2026].
 
-[4] Li, Helen. Personal interview. 10 November 2026.
+[4] IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d. [Online]. Available: https://standards.ieee.org/products-programs/nesc/. [Accessed Oct. 26, 2026].
 
-[Word count: 631]
+[Word count: ]
 
-[^1]: The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025.
-[^2]: National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d.
-[^3]: IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d.
-[^4]: Li, Helen. Personal interview. 10 November 2026.
+[^1]: Li, Helen. Personal interview. 10 November 2026.
+[^2]: The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025.
+[^3]: National Fire Protection Association, "Learn More About NFPA 70, National Electrical Code (NEC)," *NFPA*, n.d.
+[^4]: IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d.
