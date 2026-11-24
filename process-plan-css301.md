@@ -3,7 +3,7 @@
 
 ![Electrical worker testing a power distribution panel](delta-wye-electric-power-distribution-4x3-2-1024x768.jpg.avif)
 
-<sub>© Image from Delta Wye Electric Industrial Power Distribution
+<sub>© Image from Delta Wye Electric Industrial Power Distribution</sub>
 
 ## Table of Contents
 
