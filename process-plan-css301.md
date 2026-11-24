@@ -85,7 +85,7 @@ Build professional connections with experienced engineers through LinkedIn. Enga
 
 ---
 
-Figure 1 is a timeline that illustrates how career preparation for power distribution engineering can progress during your four years of undergraduate study, with each year offering different opportunities to develop knowledge, skills, and experience.
+Figure 1 is a timeline that illustrates ...
 
 ![Power Distribution Career Preparation Timeline](Process%20Draft%20Timeline.png)
 
