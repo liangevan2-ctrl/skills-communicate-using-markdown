@@ -61,7 +61,7 @@ Review the NEC and NESC through independent study using online resources and foc
 
 ### Participating in Hands-On Projects
 
-Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. This experience helps you build technical skills that are valuable to employers in professional environments.
+Hands-on projects allow you to apply coursework knowledge to real-world electrical challenges. This experience helps you build technical skills that are valuable to employers in professional environments.
 
 Participate in university engineering projects that focus on designing, testing, and troubleshooting electrical and power systems. Engage in project activities to apply classroom knowledge to practical problems and collaborate with other students.
 
