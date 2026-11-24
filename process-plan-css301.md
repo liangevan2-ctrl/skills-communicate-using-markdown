@@ -21,7 +21,7 @@ copyright here
 
 - [References](#references)
 
-Preparing for a career in power distribution engineering requires more than completing electrical engineering coursework. Although academic coursework provides the foundational knowledge needed for understanding electrical systems, you may not have had opportunities to apply that knowledge to real-world projects in the field or establish professional connections. As a result, you may lack the practical experience, technical skills, and professional connections employers expect. Building these qualifications helps you move from academic learning to professional responsibilities. This report outlines the best practices for developing the practical experience and industry skills needed to pursue an entry-level position in power distribution engineering.
+Preparing for a career in power distribution engineering requires more than completing electrical coursework. Although academic coursework provides the foundational knowledge needed for understanding electrical systems, you may not have had opportunities to apply that knowledge to real-world projects in the field or establish professional connections. As a result, you may lack the practical experience, technical skills, and professional connections employers expect. Building these qualifications helps you move from academic learning to professional responsibilities. This report outlines the best practices for developing the practical experience and industry skills needed to pursue an entry-level position in power distribution engineering.
 
 ---
 
@@ -31,15 +31,15 @@ Gaining industry experience involves finding engineering internships and learnin
 
 ### Finding Internships
 
-Having internship experience demonstrates your ability to apply academic knowledge to practical engineering projects, allowing employers to recognize your technical understanding beyond the classroom. This experience can help you stand out among candidates as it shows your ability to approach engineering tasks in a professional environment.
+Having internship experience demonstrates your ability to apply academic knowledge to practical projects, allowing employers to recognize your technical understanding beyond the classroom. This experience can help you stand out among candidates as it shows your ability to approach engineering tasks in a professional environment.
 
-Begin searching for engineering internships during your third year of college, when you have developed a foundation in electrical engineering. Use LinkedIn to connect with professionals in the power distribution industry and learn about potential internship opportunities.
+Begin searching for internships during your third year of college, when you have developed a foundation in electrical engineering. Use LinkedIn to connect with professionals in the power distribution industry and learn about potential internship opportunities.
 
 ### Learning from Experienced Engineers
 
 Working alongside experienced engineers helps you strengthen your understanding of workplace expectations and the responsibilities of professional engineers. This experience can help you prepare to meet industry standards and become familiar with the practices employers expect from entry-level engineers.
 
-Learn from experienced engineers by observing how they approach practical engineering problems. Assist with assigned engineering tasks to gain insight into professional duties and industry expectations.
+Learn from experienced engineers by observing how they approach practical engineering problems. Assist with assigned tasks to gain insight into professional duties and industry expectations.
 
 ---
 
@@ -49,7 +49,7 @@ This section explains how to develop the technical knowledge and skills needed t
 
 ### Developing Software Knowledge
 
-Becoming familiar with AutoCAD helps you build the technical skills required to interpret engineering designs and communicate more effectively with other engineers. Employers value candidates who are able to demonstrate knowledge of commonly used engineering software needed in everyday engineering tasks [^1].
+Becoming familiar with AutoCAD helps you build the technical skills required to interpret electrical designs and communicate more effectively with other engineers. Employers value candidates who are able to demonstrate knowledge of commonly used software for everyday power distribution tasks [^1].
 
 Develop proficient AutoCAD skills through introductory training courses and apply these skills in engineering projects by creating and interpreting technical drawings.
 
@@ -61,7 +61,7 @@ Review the NEC and NESC through independent study using online resources and foc
 
 ### Participating in Hands-On Projects
 
-Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. This experience helps you build technical skills that are valuable to employers in professional engineering environments.
+Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. This experience helps you build technical skills that are valuable to employers in professional environments.
 
 Participate in university engineering projects that focus on designing, testing, and troubleshooting electrical and power systems. Engage in project activities to apply classroom knowledge to practical problems and collaborate with other students.
 
@@ -75,7 +75,7 @@ Applying for the position involves preparing a professional technical resume and
 
 Employers use technical resumes to evaluate whether applicants have the skills and experience that match the job requirements. Emphasizing relevant coursework and experience helps employers better understand how your credentials prepare you for entry-level roles.
 
-Develop a technical resume that emphasizes your electrical engineering knowledge, relevant coursework, technical skills, and internship experience. Tailor your resume to highlight qualifications that align with the requirements of power distribution engineering positions.
+Develop a technical resume that emphasizes your electrical engineering knowledge, relevant coursework, technical skills, and internship experience. Tailor your resume to highlight qualifications that align with the requirements of power distribution positions.
 
 ### Establishing Professional Connections
 
