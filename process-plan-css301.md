@@ -11,11 +11,11 @@ copyright here
   - [Learning from Experienced Engineers](#learning-from-experienced-engineers)
 
 - [Building Technical Skills](#building-technical-skills)
-  - [Developing Engineering Software Knowledge](#developing-engineering-software-knowledge)
+  - [Developing Software Knowledge](#developing-software-knowledge)
   - [Practicing Electrical Codes and Safety Standards](#practicing-electrical-codes-and-safety-standards)
-  - [Participating in Hands-On Engineering Projects](#participating-in-hands-on-engineering-projects)
+  - [Participating in Hands-On Projects](#participating-in-hands-on-projects)
 
-- [Developing Job Applications & Networking](#developing-job-applications-networking)
+- [Developing Job Applications and Networking](#developing-job-applications-networking)
   - [Building a Technical Resume](#building-a-technical-resume)
   - [Establishing Professional Connections](#establishing-professional-connections)
 
@@ -47,7 +47,7 @@ Learn from experienced engineers by observing how they approach practical engine
 
 This section explains how to develop the technical knowledge and skills needed through understanding engineering software, electrical codes, safety standards, and how to apply coursework knowledge to hands-on projects.
 
-### Developing Engineering Software Knowledge
+### Developing Software Knowledge
 
 Becoming familiar with AutoCAD helps you build the technical skills required to interpret engineering designs and communicate more effectively with other engineers. Employers value candidates who are able to demonstrate knowledge of commonly used engineering software needed in everyday engineering tasks [^1].
 
@@ -59,7 +59,7 @@ Understanding the National Electrical Code (NEC) and National Electrical Safety 
 
 Review the NEC and NESC through independent study using online resources and focus on their safety requirements and how they apply to power systems.
 
-### Participating in Hands-On Engineering Projects
+### Participating in Hands-On Projects
 
 Hands-on engineering projects allow you to apply coursework knowledge to real-world electrical challenges. This experience helps you build technical skills that are valuable to employers in professional engineering environments.
 
@@ -67,7 +67,7 @@ Participate in university engineering projects that focus on designing, testing,
 
 ---
 
-## Developing Job Applications & Networking
+## Developing Job Applications and Networking
 
 Applying for the position involves preparing a professional technical resume and establishing connections with professionals in the power distribution industry.
 
