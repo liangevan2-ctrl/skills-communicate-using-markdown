@@ -104,7 +104,7 @@ Build professional connections with experienced engineers through LinkedIn. Enga
 
 [4] IEEE Standards Association, "The National Electrical Safety Code (NESC)," *IEEE*, n.d. [Online]. Available: https://standards.ieee.org/products-programs/nesc/. [Accessed Oct. 26, 2026].
 
-[Word count: 660]
+[Word count: 672]
 
 [^1]: Li, Helen. Personal interview. 10 November 2026.
 [^2]: The AutoCAD Team, "What Is CAD? Understand CAD: A Comprehensive Guide for Design and Drafting Professionals," *Autodesk*, 10 September 2025.
