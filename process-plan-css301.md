@@ -66,13 +66,13 @@ Hands-on projects allow you to apply coursework knowledge to real-world electric
 
 Participate in university engineering projects that focus on designing, testing, and troubleshooting electrical and power systems. Engage in project activities to apply classroom knowledge to practical problems and collaborate with other students.
 
-**Figure 1: Examples of Hands-On Engineering Projects**
+**Figure 1: Examples of Hands-On Power Distribution Projects**
 
 ![Hands-On Engineering](Hands-On%20Engineering.png)
 
 <sub>Figure created using Canva
 
-Figure 1 illustrates four examples of hands-on projects: circuit labs, designing projects, troubleshooting, and team projects.
+Figure 1 illustrates four examples of hands-on projects: analyzing automatic power backup circuits, building a mini power distribution grid, testing step-up and step-down transformers, and measuring distribution line voltage drop.
 
 ---
 
