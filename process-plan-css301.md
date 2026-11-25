@@ -68,7 +68,7 @@ Participate in university engineering projects that focus on designing, testing,
 
 **Figure 1: Examples of Hands-On Power Distribution Projects**
 
-![Hands-On Engineering](Hands-On%20Engineering.png)
+![Hands-On Power Distribution Projects](Hands-On%20Power%20Distribution%20Projects.png)
 
 <sub>Figure created using Canva
 
